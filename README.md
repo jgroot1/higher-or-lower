@@ -8,6 +8,9 @@ Every gues the player will get told if the number is higer or lower then their g
 When the user guesses the right number they will get told how many guesses it took and if they want to play again.
 
 ## Features
+
 user can pick the highest number for the game themself
+
 feedback on input
+
 the user is notified when an invalid input is enterd, such as letters instead of numbers 
