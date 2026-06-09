@@ -11,6 +11,6 @@ When the user guesses the right number they will get told how many guesses it to
 
 user can pick the highest number for the game themself
 
-feedback on input
+feedback on input user
 
 the user is notified when an invalid input is enterd, such as letters instead of numbers 
